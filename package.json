@@ -1,0 +1,7 @@
+{
+  "name": "neel-art-portfolio",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-static.mjs"
+  }
+}
