@@ -4,7 +4,7 @@ A static, responsive portfolio that presents two progression stories:
 
 1. An original middle-school red-car drawing, the artwork made in the years after it,
    and a focused four-hour revision of the same page.
-2. Persona as open-ended identity experimentation, followed by a focused identity
+2. Persona as open-ended design experimentation, followed by a focused design
    system for Sunrise Systems.
 
 ## Local preview
