@@ -9,11 +9,11 @@
 4. Present every artwork in the same visual footprint so source dimensions do not
    create a false hierarchy.
 
-## Identity design
+## Design
 
 1. Present Persona as broad, speculative experimentation across multiple formats.
 2. Include the supplied standalone Persona symbol alongside the applications.
-3. Present Sunrise Systems as a focused business identity using the two supplied
+3. Present Sunrise Systems as a focused business design system using the two supplied
    iterations followed by the final orange and white logo files.
 
 ## Design principles
