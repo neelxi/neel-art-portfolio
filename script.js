@@ -59,5 +59,4 @@
     document.body.style.overflow = "";
   });
 
-  document.getElementById("footerYear").textContent = new Date().getFullYear();
 })();
